@@ -1,0 +1,13 @@
+# Java Shooter Game – Customized Version
+
+This project is a modified version of the original work by **Onur Ozuduru**:
+Original Repo: [https://github.com/onurozuduru/java-shooter-game-project](https://github.com/onurozuduru/java-shooter-game-project)
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+### Modifications by SCARCE:
+- Updated UI elements
+- Refactored code
+- Removed original credit screen (shown in README instead)
+- Any other change you make…
+
+This customized version was created for educational purposes and project submission.
