@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ONSLAUGHT" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="ONSLAUGHT (FACE RECOGNITION)" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;../ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ONSLAUGHT (FACE RECOGNITION)" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

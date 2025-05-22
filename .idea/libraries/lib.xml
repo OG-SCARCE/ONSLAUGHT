@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib/javafx.graphics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
