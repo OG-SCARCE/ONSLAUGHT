@@ -136,7 +136,7 @@ public class Main extends Application {
 
     private void launchGame() {
         try {
-            String gamePath = "C:\\Users\\user\\Desktop\\ONSLAUGHT\\ONSLAUGHT (GAME)\\onslaught\\out\\production\\onslaught";
+            String gamePath = "../ONSLAUGHT (GAME)/onslaught/out/production/onslaught";
 
             ProcessBuilder pb = new ProcessBuilder(
                     "java",
