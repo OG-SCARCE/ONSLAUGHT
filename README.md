@@ -171,8 +171,9 @@
    - Paste the following path in VM Options:
 
      
---module-path "../ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib" --add-modules javafx.controls,javafx.fxml
-
+     ```
+     --module-path "../ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib" --add-modules javafx.controls,javafx.fxml
+     ```
 
 5. Set **Working Directory** to ONSLAUGHT (FACE RECOGNITION) 📁
 
