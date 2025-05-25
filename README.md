@@ -38,9 +38,9 @@ This project combines a **GUI-based Face Recognition Login System** built in Jav
 
 ## 👨‍💻 Contributors
 
-* **[Aman Patel](https://github.com/your-github)** – Project Lead & Developer
-* **[Smith Shukla](https://github.com/abhishekdpandey18)** – Documentation & Review
-* **[Kaustubh Kumar](https://github.com/username)** – JavaFX Developer
+* **[Aman Patel]((https://github.com/OG-SCARCE))** – Project Lead & Developer
+* **[Smith Shukla]((https://github.com/Smith63063))** – Documentation & Review
+* **[Kaustubh Kumar]((https://github.com/kaushtubhk))** – JavaFX Developer
 
 ---
 
