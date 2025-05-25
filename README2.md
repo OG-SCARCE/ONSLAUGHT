@@ -110,85 +110,120 @@
 
 ## 🔧 Installation & Running Guide
 
-### 📥 1. Download the Code
+## 📥 1. Download the Code
 
-- GitHub: [ONSLAUGHT Repository](https://github.com/OG-SCARCE/ONSLAUGHT)
-- Click **Code → Download ZIP**
-- Save and extract on Desktop → rename inner folder to `ONSLAUGHT`
-
----
-
-### 💻 2. Open Project in IntelliJ IDEA
-
-1. Go to `File → New → Project from Existing Sources`
-2. Select the `ONSLAUGHT` folder
-3. Keep clicking **Next** ➡️ → **Reuse project** when prompted
-4. Let IntelliJ finish indexing and setup
+- Visit the GitHub Repository:  
+  🔗 [ONSLAUGHT GitHub Repo](https://github.com/OG-SCARCE/ONSLAUGHT)
+- Click on **Code > Download ZIP** 📦
+- Save the ZIP file to your **Desktop** 🖥️
 
 ---
 
-### 🛠️ 3. Configure Run Settings
+## 📂 2. Extract the Code
 
-1. Open `src/Main.java`
-2. Go to **Run → Edit Configurations**
-3. Click `+ Add New Configuration → Application`  
-   **Fill in:**
-   - **Name**: `ONSLAUGHT`
-   - **Module**: Select your Java 23 SDK module
-   - **Main class**: `Main`
-   - **Working directory**: Set to `ONSLAUGHT (FACE RECOGNITION)`
-   - **VM options**:
-
-     ```
-     --module-path "../ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib" --add-modules javafx.controls,javafx.fxml
-     ```
-
-4. ✅ Apply → OK
+- Extract the ZIP file on the Desktop itself.
+- You’ll get a folder named: ONSLAUGHT-main
+- Open it — inside you’ll find another folder also named: ONSLAUGHT-main
+- ✅ Rename this **inner folder** to: ONSLAUGHT
 
 ---
 
-### ▶️ 4. Run the Application
+## 🛠️ 3. Prepare the Project
 
-- Click the **green run button** (▶️) to start the app
-
----
-
-## 📸 Registering a Face
-
-1. Click **Register with Face**
-2. Enter a **username** in the terminal when prompted
-3. Allow camera access
-4. Wait for the system to capture **10 face images**
+- Open the ONSLAUGHT folder
+- Right-click inside and **Copy the full path** 📋
 
 ---
 
-## 🔐 Logging In
+## 💻 4. Open IntelliJ IDEA
+
+1. Go to **File > New > Project from Existing Sources**
+2. Paste the **copied path** and open the folder.
+3. Click **Next** ➡️ then again **Next**
+4. When prompted with "Yes", click **Yes** ✅
+5. Wait for files to load completely ⏳
+6. Click **Unmark All**, then only select the **first two files** 🗂️
+7. Click **Next** ➡️ → wait for **searching to complete**
+8. Keep clicking **Next** ➡️
+9. Choose **Reuse**, then click **Create**
+10. Let the project open in a **new window**
+
+---
+
+## ⚙️ 5. Setup the Run Configuration
+
+1. Go to:  
+   ONSLAUGHT (FACE RECOGNITION) ➡️ src ➡️ Main.java  
+   Double-click to open it.
+
+2. Go to **Edit Configurations** 🛠️
+   - Click **+ Add New Configuration** → Select **Application**
+   - **Name**: ONSLAUGHT
+   - ✅ Enable: **Store as project file**
+
+3. Configure:
+   - **Module**: Select JDK 23 ☕
+   - **-cp**: Set to "ONSLAUGHT (FACE RECOGNITION)"
+   - **Main class**: Select Main from the same folder
+
+4. Click **Modify Options**:
+   - Enable **Add VM Options** under Java section
+   - Paste the following path in VM Options:
+
+     
+--module-path "../ONSLAUGHT (REQUIRED FILES)/OPEN_CV/JAVA SDK/lib" --add-modules javafx.controls,javafx.fxml
+
+
+5. Set **Working Directory** to ONSLAUGHT (FACE RECOGNITION) 📁
+
+6. Click **Apply**, then **OK**
+
+---
+
+## ▶️ 6. Run the Application
+
+- Hit the **green Play button** to run the ONSLAUGHT application 🎉
+
+---
+
+## 😄 7. Register with Face
+
+- Click **Register with Face** 📸
+- Enter your **username** in IntelliJ Terminal
+- Allow **Camera Access** 🎥
+- Wait while the application captures **10 facial images**
+
+---
+
+## 🔐 8. Login with Face
 
 - Click **Login with Face**
-- System compares current face with registered images
-- Access granted upon a successful match
+- If successfully registered, you’ll be allowed to play the game 🎮  
+  ❗ *Note: If not registered, login won’t proceed.*
 
 ---
 
-## 🔑 Admin Login
+## 🛡️ 9. Admin Login Option
 
-- **Username**: `admin`  
-- **Password**: `1234`  
-- Use for administrative access or testing bypass
+- For administrator access:
+  - 👤 Username: admin
+  - 🔑 Password: 1234
+  - Click **Login**
 
 ---
 
-## 🚀 Start the Game
+## 🚀 10. Start the Game
 
 - Click **Start Game**
-- If it doesn’t open immediately, minimize IntelliJ and reopen from taskbar
+- If the game window doesn’t appear instantly:
+  - Click **Minimize** 🗕, then reopen from the **Taskbar** 📌
 
 ---
 
-## 🏆 Enjoy the Game
+## 🏆 11. Enjoy!
 
-- Shoot enemies, dodge obstacles, and aim for a high score!
-- Game records score after each session
+- You’re now ready to play and enjoy **ONSLAUGHT**
+- Don’t forget to check your **High Score** after each session 🥇
 
 ---
 
