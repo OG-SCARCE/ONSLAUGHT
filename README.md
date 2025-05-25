@@ -32,9 +32,15 @@
 - 🌟 Basic animation and real-time scoring
 
 ---
-
-## 📸 Screenshots  
-*(Insert your gameplay and GUI screenshots here)*
+ 
+## 📸 Screenshots
+<p align="center">
+  <img src="ONSLAUGHT (REQUIRED FILES)/OPEN_CV/PROJECT SCREENSHOTS/ (12).jpg" width="200"/>
+  <img src="ONSLAUGHT (REQUIRED FILES)/OPEN_CV/PROJECT SCREENSHOTS/ (23).jpg" width="200"/>
+  <br>
+  <img src="ONSLAUGHT (REQUIRED FILES)/OPEN_CV/PROJECT SCREENSHOTS/ (22).jpg" width="200"/>
+  <img src="ONSLAUGHT (REQUIRED FILES)/OPEN_CV/PROJECT SCREENSHOTS/ (16).jpg" width="200"/>
+</p>
 
 ---
 
