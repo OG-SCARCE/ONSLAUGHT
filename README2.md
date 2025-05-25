@@ -235,6 +235,6 @@
 
 ---
 
-## 🌟 Developed by [OG-SCARCE](https://github.com/OG-SCARCE)
+## 🌟 Developed with 💻 and ☕ by [OG-SCARCE](https://github.com/OG-SCARCE)
 
 > “From face recognition to fast-paced fun — welcome to **ONSLAUGHT**.”
