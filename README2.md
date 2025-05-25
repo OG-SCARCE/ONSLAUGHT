@@ -78,10 +78,10 @@
 
 ## 🗂 Project Structure
 
-- `src/Main.java` → Main launcher  
+- `ONSLAUGHT (FACE RECOGNITION)/src/Main.java` → Main launcher  
 - `FaceRegistration.java` → Handles face image capture  
 - `FaceLogin.java` → Authenticates users  
-- `GameMain.java` → Entry point for shooter game  
+- `onslaught/shooterGame/GameMain.java` → Entry point for shooter game  
 - `registered_faces/` → Stores user face images  
 - `resources/` → FXML, CSS, and assets  
 - `opencv/` → Native OpenCV libraries  
